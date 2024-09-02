@@ -1,4 +1,4 @@
-!https://github.com/umark1142/umark1142/blob/main/banner.png
+https://github.com/umark1142/umark1142/blob/main/banner.png
 <h1 align="center">Hi 👋, I'm Umar Khaild</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
