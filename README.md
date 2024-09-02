@@ -1,10 +1,10 @@
-!https://github.com/Alideveloper49/Alideveloper49/blob/main/banner.png
+!https://github.com/umark1142/umark1142/blob/main/banner.png
 <h1 align="center">Hi 👋, I'm Umar Khaild</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alideveloper49&label=Profile%20views&color=0e75b6&style=flat" alt="alideveloper49" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umark1142&label=Profile%20views&color=0e75b6&style=flat" alt="umark1142" /> </p>
 
 # Meet the Full-Stack Developer Extraordinaire
 
@@ -34,9 +34,9 @@ If you're ready to elevate your digital presence with a Full-Stack Developer who
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/alideveloper49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alideveloper49" height="30" width="40" /></a>
+<a href="https://dev.to/umark1142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="umark1142" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ali-ahmed-729492148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-ahmed-729492148" height="30" width="40" /></a>
-<a href="https://codesandbox.com/alideveloper49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="alideveloper49" height="30" width="40" /></a>
+<a href="https://codesandbox.com/umark1142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="umark1142" height="30" width="40" /></a>
 <a href="https://fb.com/alimughal9030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alimughal9030" height="30" width="40" /></a>
 </p>
 
